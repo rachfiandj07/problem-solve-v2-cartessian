@@ -2,7 +2,7 @@
 
 # Problem statement
 
-Model a line based on point consiting x and y using cartesian system, with that i need to calculate its length
+Model a line based on point consiting x and y using cartesian system, with that can calculate its length
 
 # Pre-requisites
 
