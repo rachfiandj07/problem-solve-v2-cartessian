@@ -1,3 +1,5 @@
+package com.cartessian.line;
+
 public class Point {
     private int x;
     private int y;

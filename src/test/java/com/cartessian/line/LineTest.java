@@ -1,5 +1,9 @@
+package com.cartessian.line;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import com.cartessian.line.Line;
+import com.cartessian.line.Point;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

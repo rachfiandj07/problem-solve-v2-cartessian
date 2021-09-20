@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PointTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-20T08:50:26" hostname="Naufal-MacbookPro.local" time="0.015">
-  <properties/>
-  <testcase name="define a point by given x and why value" classname="PointTest" time="0.015"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
